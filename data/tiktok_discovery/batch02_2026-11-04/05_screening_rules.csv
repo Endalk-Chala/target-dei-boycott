@@ -1,0 +1,20 @@
+SCREENING & SAMPLING PROTOCOL,Unnamed: 1,Unnamed: 2
+,,
+"Working v0.1  •  Original periods maintained; rules proposed, not frozen",,
+,,
+Decision point,Provisional rule,Reason / safeguard
+Study units,"One original public TikTok video (unique numeric video ID), not an article, comment, repost, or news synopsis.",Exclude repost duplications by ID; retain provenance of every discovery.
+Original period A,2025-01-24 through 2025-04-30 inclusive.,Initial corporate DEI change and boycott response.
+Original period B,2026-02-01 through 2026-03-31 inclusive.,Late-stage and resolution/dispute over continuation.
+Temporal gap,2025-05-01 through 2026-01-31 excluded under original design.,Log as outside period; do not quietly code as period A or B.
+Topic relevance,"Video itself directly addresses Target 2025 DEI reversal, boycott or specific response, support, counterargument, brand accountability.",Mentions of general Target shopping alone insufficient.
+Perspective,"Do not filter by attitude: pro-boycott, anti-boycott, critical of boycott, neutral all eligible when topic-specific.",Protect against confirmation bias.
+First-stage source,"Public source discovery: citations in 2025/2026 reporting, indexed TikTok video URLs, targeted queries.",Search provenance and date must be logged.
+Direct source verification,"Human opens video, verifies correct account, visible content, recorded upload date and unique ID; captures ethical fieldnotes.",No automated description alone qualifies as a coded observation.
+Frame assembly,"Maintain a row for each unique potential video ID, source URL, search path, screening outcome and reason.","Dedup by ID, not just handle, caption, topic."
+Sampling,"Only after a sizeable eligible frame is documented choose a systematic sample, with seeded random selection separately within both defined periods if feasible.",News-indexed leads alone are NOT representative or probability sample of all TikTok content.
+Planned N,"Original n=300 is provisional, not a quota to fill with low-quality items.",Reassess based on confirmed discoverability and power / design justification.
+Relevance of brand account,Target-authored TikToks are not public boycott creator posts; put in corporate-response corpus or context sheet.,Avoid mismatched units.
+Second-period recruitment,"Explicitly seek Feb–Mar 2026 TikTok URLs, not just March 2026 news articles.",No exact second-period videos found this batch; do not infer zero actual posts.
+Ethics,Minimize personally identifying details in published outputs; avoid bulk redistribution of video files or unnecessary verbatim quotations.,Store provenance and research notes securely.
+Reliability and coding,After eligibility screening pilot coded videos and independent intercoder reliability with predefined units / measures.,Do not write results from news excerpts.

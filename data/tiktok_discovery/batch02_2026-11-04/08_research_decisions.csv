@@ -1,0 +1,15 @@
+Decision,Research rationale,Implementation / implication
+Current objective,"Maximize traceable discovery, not a probability sample",All candidate rows identified by exact video ID; no new result coded until human review.
+Original collection periods,A Jan24–Apr30 2025; B Feb1–Mar31 2026,"All ID-inferred date signals, posting dates not confirmed. UTC is not local clock."
+Late sample gap,Only 1 B-period exact-ID lead found to date,Rebalance discovery effort toward February–March 2026; never invent observations.
+Missing middle period,May–Dec 2025 posts may be theoretically important but outside chosen comparison,Retain in quarantine. Consider explicitly changing design before analysis only.
+Sample eligibility,Video must explicitly discuss Target's 2025 DEI rollback/its boycott in creator speech/caption,Exclude posts with mere Target branding; comments about boycott alone are insufficient for primary video corpus.
+Source tier 1,News-embedded direct TikTok link,Media describes video but does not independently verify full audiovisual material here.
+Source tier 2,Third-party mirror with original TikTok ID and public caption,Mirror may be incomplete/stale. Canonical URLs were constructed and never independently opened.
+Time reliability,Video IDs encode timestamps but require independent posting-date validation,@luvnate._ reported Feb2 but ID implies Feb1 UTC; flag timezone/date discrepancy.
+No direct playback,TikTok blocked automated retrieval,"Do not make claims about tone, framing, creator identity beyond source or transcript from observed content."
+Engagement numbers,Secondary articles/mirrors report historical or changing counts,Leave blank until captured from verified public view with date; do not combine historical snapshots.
+Diversity of voices,News results over-sample viral/English videos and outraged opinions,"Later collect creator types/stances broadly, including counter-boycott and small vendors."
+Separate controversy,Target's 2023 Pride boycott and 2026 ICE boycott are separate episodes,Exclude conflation unless video explicitly bridges issues; note frame boundary.
+Coding ethics,Videos can expose ordinary creators discussing politically sensitive topics,Data minimization; no videos republished; anonymize where reporting requires.
+Next action,Screen 24 video IDs in TikTok and recover inaccessible sources,Complete Video Verification Intake prior to drawing frequencies or making claims.
