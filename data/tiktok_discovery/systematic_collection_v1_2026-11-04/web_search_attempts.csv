@@ -1,0 +1,13 @@
+Date,Search platform,Query actually attempted,Finding,Primary TikTok video directly verified?,Search limitation
+2026-11-04,Web search,site:tiktok.com/@ boycott target DEI 2025 video,Search route blocked by TikTok robots restrictions,No,Cannot use returned excerpt as playback evidence
+2026-11-04,Web search,site:tiktok.com/@ target boycott DEI 2026 video,Search route blocked by TikTok robots restrictions,No,Original platform not accessed
+2026-11-04,Web search,Target boycott TikTok videos Feb 2026 March 2026 link,"News context, very few exact late-period IDs",No,Search engine news-selection bias
+2026-11-04,Web search,site:urlebird.com/video #boycotttarget DEI,Third-party index yielded limited relevant hits,No,Mirror availability uncertain
+2026-11-04,Web search,urlebird.com/video targetboycott 2025,Limited new exact ID evidence,No,Query indexed results incomplete
+2026-11-04,Web search,Target boycott TikTok 2025 creator video embedded news,Existing IDs rediscovered; new named creator leads,No,News favors high-engagement accounts
+2026-11-04,Web search,site:dailydot.com Target boycott TikTok 2025 2026,"Multiple contextual reports, existing videos",No,News video descriptions are not primary text
+2026-11-04,Web search,site:themarysue.com Target boycott TikTok 2025 2026,New creator references: @probendingchamp and others,No,Some outside pre-registered periods
+2026-11-04,Web search,site:blackenterprise.com Target TikTok boycott 2025,Context and prior @ajjustfly/@mahoganyishere leads,No,Exact IDs unavailable for these accounts
+2026-11-04,Web search,Target boycott videos on TikTok March 11 2026,Competing boycott statements confirmed; no new exact-ID video from these results,No,DEI vs ICE campaigns overlap
+2026-11-04,TikTok link access via news embeds,Follow original creator/video link from Retail Brew / Daily Dot,TikTok request rejected as restricted,No,No platform playback or date verification
+2026-11-04,Web search,@probendingchamp Target boycott video May 2025,Source article references and quotes one TikTok video,No,"Outside Core A period, exact ID unresolved"
