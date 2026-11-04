@@ -1,0 +1,7 @@
+Date,Discovery channel,Search/coverage,Result,Bias / caveat
+2026-11-04,Library and GitHub audit,"Brand Covenant / Target / TikTok, saved artifacts",Prior 24 exact URLs in eight-tab Batch02; no video content directly reviewed,Historical non-representative starting pool
+2026-11-04,News source extraction,"Target DEI TikTok videos in Black Enterprise April 16, 2025",One additional exact numeric video URL @veesass,Attribution and item topic require review
+2026-11-04,Third-party hashtag index,#fucktarget mirror indexed posts,Three additional numeric IDs with weak/uncertain DEI relevance,Not eligible based on hashtag alone; dates estimated
+2026-11-04,Late-period targeted web search,"February-March 2026 Target Fast ending, local continued boycott, TikTok embeds",Documented divergent movements; no additional direct 2026 video ID,Second period remains critically undercovered
+2026-11-04,Source verification,May 21 2025 Target Q1 earnings & October 20 RICE,Correct original URL and distinguish corporate material from press coverage,Corporate materials have different units of analysis
+2026-11-04,Method boundary,May 2025-Jan 2026 middle-period video leads,Tagged as exploratory time band; retained rather than dropped,New exploratory layer ≠ change to preregistered A/B comparison

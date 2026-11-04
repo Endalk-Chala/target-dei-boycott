@@ -1,0 +1,14 @@
+Research decision,Proposed operational rule,Why this matters
+Collection objective,Build an evidence-traceable discovery frame of public TikTok posts about Target's 2025 DEI policy changes; separately log corporate/publication context,Do not target N=300 before constructing an eligible population
+Three layers,A Jan24-Apr30 2025; exploratory middle May1 2025-Jan31 2026; B Feb1-Mar31 2026,Two original analytic windows remain pre-specified; continuous layer provisional
+Inclusion criterion,"Video itself discusses Target's 2025 DEI rollback, associated boycott, brand commitment, affected vendors or direct counterargument","A Target hashtag, general shopping or brand ad alone insufficient"
+Viewpoint diversity,"Positive, negative, opposed and neutral positions eligible based on topic",Counterselection of supportive or anti-boycott views
+Platform content gate,"Reviewer watches original and verifies date, ID, creator, caption/audio relevance; inaccessible videos stay unverified",No secondary-source paraphrase substituted for primary coding
+Deduplication,Deduplicate numeric TikTok ID; preserve all discovery sources and timestamps,Same video reused in many articles is one video unit
+Sampling,"After eligible frame assembled, record all inclusion/exclusion decisions and use stratified or transparent purposive sample, with fixed seed if random",No probability inference to all TikTok posts if discovery is convenience
+Sampling bias,News embeds preferentially select viral and English-language creators; mirrors may omit posts,Search via platform or approved Research API needed for systematic coverage
+Temporal attribution,Decode ID timestamps only as date hints; check on-platform dates and timezone,Timestamp cannot validate content or existence
+Separate controversies,2023 LGBTQ Pride boycott and 2026 ICE-focused boycott are distinct from 2025 DEI reversal,Include mixed-issue posts only if explicit DEI linkage is in video
+Separate units,"Original consumer videos, corporate TikTok promos, platform comments, journalism, formal organizer statements are separate tables",Do not merge as video observations
+Intercoder reliability,"Pilot ~30 verified videos; independent coding for a subset, define variable level alpha","No statistics without actual coding, reliability and denominators"
+Ethics,Minimize exposing ordinary creators and potentially sensitive political expression,"Avoid redistributing videos, unnecessary quotation and embedding personal info in paper"

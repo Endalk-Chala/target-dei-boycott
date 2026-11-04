@@ -1,0 +1,19 @@
+Measure,Value,Derived formula
+Document type,EXPANDED DISCOVERY / CONTEXT RECONSTRUCTION,
+Version,2026-11-04 Batch 03,
+Status,"Discovery leads only; no direct video review, posting-date verification, coding or representative sampling",
+Baseline exact-ID leads,24,
+New exact-ID leads,4,
+Total exact-ID video leads,28,28
+Original A-period video leads,19,19
+Exploratory middle-period leads,8,8
+Original B-period leads,1,1
+Videos directly reviewed,0,
+Videos coded,0,
+Unresolved creator/comment leads,12,
+Dated contextual events / communications,27,
+Research boundary,"The 28 URLs are discovery records, not 28 eligible videos; six of the 28 have very uncertain topical relevance",
+Coverage warning,Only one February–March 2026 exact video ID; new 2026 documentary sources are not substitutes for TikTok posts,
+Sampling windows,A: Jan 24–Apr 30 2025  |  Exploratory middle: May 2025–Jan 2026  |  B: Feb 1–Mar 31 2026,
+Primary priority,Retrieve/video-review actual TikTok content and expand second-period IDs via on-platform search/research data access,
+GitHub baseline,https://github.com/Endalk-Chala/target-dei-boycott/tree/main/data/tiktok_discovery/batch02_2026-11-04,
