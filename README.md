@@ -5,6 +5,12 @@
 **Status:** Ongoing research project  
 **Author:** Endalkachew H. Chala
 
+## Canonical cleaned research data (November 4, 2026)
+
+**[Cross-platform master source inventory v0.2](data/curated/v0_2_2026-11-04/)** — **93 deduplicated source-linked records**: TikTok (37), Bluesky (28), YouTube (18), Instagram (7), Facebook (2), and one news-hosted video. Includes the normalized master CSV, platform-specific CSVs, original-source links, project codebook, event/context materials and a prepared YouTube API script.
+
+**Research-status qualification:** This is an openly documented discovery/verification corpus, not 93 coded observations. Videos have not been independently watched or transcribed, and no live bulk platform API harvest was executed. The paper is in preparation, **not submitted or accepted**.
+
 ## Study overview
 
 This project examines how Target’s 2025 DEI rollback became a platform-mediated controversy involving corporate communication, digital activism, community accountability, and brand responsibility.
