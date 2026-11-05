@@ -1,0 +1,11 @@
+Date,Channel,Search query / entry,Finding,Attempt status,Limitations / sampling bias
+2026-11-04,Public web,site:bsky.app/profile/ Target boycott DEI 2025,Original Bluesky post pages and timestamps recovered,Completed: web-indexed only,Not an exhaustive or random Bluesky search
+2026-11-04,Public web,site:bsky.app/profile/ Target boycott March 2026,Scattered news/adjacent results,Completed: limited,Strongly sparse comparison-period retrieval
+2026-11-04,Public web,site:bsky.app/profile/ #BoycottTarget #DEI,Early #BoycottTarget original statement found,Completed: limited,Hashtag ambiguity with other Target controversies
+2026-11-04,Public web,site:x.com/ Target boycott DEI 2025,No reliable original X-status corpus recovered,Completed: limited,X indexing/login restrictions
+2026-11-04,Public web,site:instagram.com/reel Target boycott DEI,Links mostly via reporting and embeds,Completed: limited,No verified original video playback
+2026-11-04,Source article follow-through,Retail Brew Feb 25 social links,"Identified additional Target IG posts, Facebook and TikTok corporate posts",Completed,Full comments not captured; visible original URLs from linked article
+2026-11-04,Source article follow-through,Denver Gazette Jan 28 embed links,Resolved three original vendor Instagram reel URLs,Completed,Direct Instagram content blocked
+2026-11-04,Public web,site:youtube.com/watch Target boycott DEI 2025,Found four new source-specific news/commentary video URLs,Completed,YouTube metadata and description only; audiovisual review needed
+2026-11-04,Direct original pages,bsky.app/profile/[actor]/post/[key],Verified original Bluesky texts and UTC timestamps,Completed for 17 candidate links,"Not proof of completeness, authenticity of actor, or representative sample"
+2026-11-04,Attempted public Bluesky search API,app.bsky.feed.searchPosts (unauthenticated),Endpoint blocked in available tool,Attempted,No bulk API observations were collected; do not imply otherwise

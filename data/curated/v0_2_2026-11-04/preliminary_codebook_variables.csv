@@ -1,0 +1,13 @@
+Variable,Definition,Decision rule / safeguard,Status
+Platform object,Social platform and unique post/video URL.,Keep original post and cross-post distinct; assign shared ad group only when substantiated.,Mandatory
+Content type,"Creator video, corporate advertisement, organizer statement, news video, text post, etc.",Preserve different units; do not pool article summaries as posts.,Mandatory
+Evidence tier,Direct readable text; direct video metadata; source-linked URL only; secondary contextual report.,"Does not assume screenshots, watch time or transcripts.",Mandatory
+Historical period,"A (Jan24–Apr30 2025), middle (May2025–Jan2026), B (Feb–Mar2026).",Initial A/B design remains; middle period exploratory until design is amended.,Mandatory
+Issue relevance,"Explicit DEI boycott, adjacent campaign, corporate advertising/context, unrelated issue.",2023 Pride and March 2026 ICE boycotts must not be merged silently.,Mandatory
+Actor type,"Consumer, organizer, vendor, corporate, labor, journalist, commentator.",Assign only from verified source/information; nonexclusive roles tracked via notes.,Pilot code
+Stance toward boycott,Support / oppose / mixed / neutral / not codable.,Do not infer stance from hashtags or from a news article's description alone.,Pilot code
+Brand-covenant language,"Moral obligation, betrayal, broken promise, trust, accountability.",Do not count as a finding until original post/video text reviewed.,Pilot code
+Consumer action,"Abstention, redirect spending, support vendors, demand apology, information-sharing.",Separate articulated call from claimed behavior and from observed purchasing.,Pilot code
+Corporate advertising,Promotional content from Target's own official account.,Commenter reactions are separate units and need independent collection.,Pilot code
+Cross-post linkage,Same company creative deployed on multiple platforms.,Do not collapse platform-specific objects; avoid double counting common creative.,Pilot code
+Protection and ethics,Minimize personal handles and full copied messages in shared outputs.,Raw identifiable materials should not be publicly redistributed unnecessarily.,Mandatory

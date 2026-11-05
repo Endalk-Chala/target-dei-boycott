@@ -1,0 +1,22 @@
+{
+  "release_version": "v0.2",
+  "release_compiled_local": "2026-11-04",
+  "distinct_linked_objects": 93,
+  "counts_by_platform": {
+    "TikTok": 37,
+    "Bluesky": 28,
+    "YouTube": 18,
+    "Instagram": 7,
+    "Facebook": 2,
+    "News video": 1
+  },
+  "bluesky_complete_short_texts": 14,
+  "bluesky_excerpt_only": 14,
+  "original_video_playback_verified": 0,
+  "formal_coding_completed": 0,
+  "live_api_harvest_executed": false,
+  "campaign_event_records": 27,
+  "context_sources": 10,
+  "corporate_primary_context_links": 4,
+  "deduplication": "Platform + native object ID; YouTube and Bluesky cross-platform repeats merged; cross-posted creative not content-deduplicated"
+}
