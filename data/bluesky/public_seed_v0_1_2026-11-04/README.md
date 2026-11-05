@@ -31,7 +31,7 @@ The script is **prepared but was not run successfully in this research environme
 ## Related project data
 - [TikTok source leads, Batch 03](../../tiktok_discovery/batch03_2026-11-04/) — 28 exact-ID discovery leads, *not* watched or coded video observations.
 - [Systematic TikTok search protocol](../../tiktok_discovery/systematic_collection_v1_2026-11-04/) — search plan, *not* an executed TikTok platform harvest.
-- [Research profile](../../../..//paper/WORKING_PAPER_PROFILE_2026-11-04.md) — theory and ongoing study status.
+- [Research profile](../../../paper/WORKING_PAPER_PROFILE_2026-11-04.md) — theory and ongoing study status.
 
 ## How to describe the release in applications
 **Accurate:** "Developing an openly documented cross-platform case study of Target's 2025 DEI rollback and consumer boycott, with versioned public-source data inventories, source-level provenance and a reproducible Bluesky API collector."
