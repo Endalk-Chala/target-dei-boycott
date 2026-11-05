@@ -12,6 +12,10 @@ This study investigates how Target's January 2025 changes to its DEI commitments
 
 This is a working theoretical and methodological framing. There are **no reported empirical findings** at this stage.
 
+## Canonical source-data release v0.2
+
+The [curated November 2026 cross-platform source index](../data/curated/v0_2_2026-11-04/) documents **93 unique linked source objects** across TikTok (37), Bluesky (28), YouTube (18), Instagram (7), Facebook (2), and one publisher-hosted video. These are research discovery records, not 93 verified or formally coded observations; original TikTok and YouTube content has not been independently reviewed. The study remains **a manuscript in preparation**.
+
 ## Open research resources
 - [Bluesky public-source posts — working seed v0.1](../data/bluesky/public_seed_v0_1_2026-11-04/)
 - [TikTok original-video discovery leads](../data/tiktok_discovery/batch03_2026-11-04/) — not independently watched or coded
