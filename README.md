@@ -11,6 +11,14 @@ This project examines how Target’s 2025 DEI rollback became a platform-mediate
 
 The study foregrounds the Minnesota context while treating TikTok and other digital platforms as communication infrastructures through which publics organize, interpret corporate decisions, and contest institutional legitimacy.
 
+## Public research snapshots (November 2026)
+
+- **[Working paper profile](paper/WORKING_PAPER_PROFILE_2026-11-04.md)** — research question, theoretical contribution, open research infrastructure, and accurate status for academic applications.
+- **[Bluesky source-data seed v0.1](data/bluesky/public_seed_v0_1_2026-11-04/)** — 28 distinct source-linked posts, limited excerpts, provenance, preliminary screening and a prepared public API collection script. **Not a coded or representative sample.**
+- **[TikTok discovery Batch 03](data/tiktok_discovery/batch03_2026-11-04/)** — 28 exact video-ID leads. **Original video content has not been independently viewed or coded.**
+
+**Publication status:** Working paper in preparation. Not submitted or accepted by a journal. No article findings are claimed from these preliminary records.
+
 ## Research design
 
 The project uses a mixed-method design with two connected components:
